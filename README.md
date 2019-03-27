@@ -2,9 +2,9 @@
 
 Exemplo C# (Console Application .net Core)
 
-**Objetivo:** Garantir que solicitações HTTP de serviços de back-end que tenham o API Gateway como origem, através de credentials obter o Token de acesso as outras API´s assim garantindo autenticidade do solicitante.
+**Objetivo:** Garantir que solicitações HTTP de serviços de back-end que tenham o API Gateway como origem, para obter um Token de acesso a outras API´s. Garantindo autenticidade do solicitante.
 
-No arquivo: <a href="https://github.com/renatotvs/ClientCredentialsAuthorization/blob/master/ClientCredentialsAuthorization/Program.cs">Program.cs</a>  possui dois métodos:
+No arquivo: <a href="https://github.com/renatotvs/ClientCredentialsAuthorization/blob/master/ClientCredentialsAuthorization/Program.cs">Program.cs</a>  possui dois métodos assíncronos:
 
 + Obter token de acesso (através de credentials)
 
