@@ -6,7 +6,7 @@ Exemplo C# (Console Application .net Core)
 
 No arquivo: <a href="https://github.com/renatotvs/ClientCredentialsAuthorization/blob/master/ClientCredentialsAuthorization/Program.cs">Program.cs</a>  possui dois métodos assíncronos:
 
-+ Obter token de acesso (através de credentials)
++ Obter token de acesso
 
 private static async Task<string> GetToken()
 {
