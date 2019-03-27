@@ -1,10 +1,8 @@
-# ClientCredentialsAuthorization
+# Client Credentials Authorization
 
-Console Application .net Core
+Exemplo C# (Console Application .net Core)
 
-Exemplo C# (Console Application .net Core) - Obter Token de Acesso a API via credenciais.
-
-*Objetivo:* Garantir que solicitações HTTP de serviços de back-end que tenham o API Gateway como origem, através de credentials obter o Token de acesso as outras API´s assim garantindo autenticidade do solicitante.
+**Objetivo:** Garantir que solicitações HTTP de serviços de back-end que tenham o API Gateway como origem, através de credentials obter o Token de acesso as outras API´s assim garantindo autenticidade do solicitante.
 
 No arquivo: Program.cs possui dois métodos:
 
